@@ -2,8 +2,8 @@
 
 ## DESCRIPTION
 
-![image](photo.jpg)
-![image](description.jpg)
+![image](photo.jpg)  
+![image](description.jpg)  
 [see 20000YearsOrgel.pdf](20000YearsOrgel.pdf)
 
 ## Credit
